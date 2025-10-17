@@ -15,8 +15,8 @@ One day I found RustAdmin for Desktop was not working for me, and I realized if 
 
 ###### Requires:
 
-Python 3.8+ (Tkinter included on most Python builds)
-
+Python 3.8
 pip packages
+
 
 
