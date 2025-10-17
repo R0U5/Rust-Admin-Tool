@@ -1,4 +1,4 @@
-One day I found RustAdmin for Desktop was not working for me, and I realized if the dev ever pulled the plug on the free version and went completely cloud based, I would be SOL. Because of thta, I decided to make a simple Python script that is very bare bones, but does the same thing.
+One day I found RustAdmin for Desktop was not working for me, and I realized if the dev ever pulled the plug on the free version and went completely cloud based, I would be SOL. Because of that, I decided to make a simple Python script that is very bare bones, but does the same thing.
 
 
 
@@ -18,4 +18,5 @@ One day I found RustAdmin for Desktop was not working for me, and I realized if 
 Python 3.8+ (Tkinter included on most Python builds)
 
 pip packages
+
 
