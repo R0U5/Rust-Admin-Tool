@@ -9,7 +9,10 @@ One day I found RustAdmin for Desktop was not working for me, and I realized if 
 * Players tab: auto-parses status output into a table (Name, Ping, SteamID, Connected), with type-to-filter search and click-to-sort headers. 
 * Quick commands: hit Enter to send, and the app also auto-polls status at intervals to keep the player list fresh. 
 * Config + Logs saved to Documents (RAT\_config.JSON, RAT\_log.JSON) so your connection details and console history persist. 
-* Threaded + asyncio architecture keeps the UI responsive while the WebSocket runs in the background. 
+* Threaded + asyncio architecture keeps the UI responsive while the WebSocket runs in the background.
+
+*NC OSL‑A 1.0 © William Furtado. See `LICENSE`.*
+
 
 
 
